@@ -1,0 +1,25 @@
+{
+  "name": "arkivo",
+  "version": "0.0.1",
+  "description": "arkivo is a bookmarking service in the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thbonk/arkivo.git"
+  },
+  "keywords": [
+    "arkivo",
+    "bookmark",
+    "bookmarks",
+    "manager"
+  ],
+  "author": "Thomas Bonk <thomas@meandmymac.de>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thbonk/arkivo/issues"
+  },
+  "homepage": "https://github.com/thbonk/arkivo#readme"
+}
